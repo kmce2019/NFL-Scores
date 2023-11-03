@@ -100,4 +100,7 @@ See https://github.com/kmce2019/rpi-rgb-led-matrix for flag descriptions
 
 ### Things to update:
 Add as a service
+
 Add to startup
+
+Could use guidance on how to repackage all of this and install it in home/ instead of buried in directories
