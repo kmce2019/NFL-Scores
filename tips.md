@@ -34,6 +34,7 @@ In this example, the "20" is what we are after
 10 would display it at the bottom 
 
 and 30 would display it at the top
+
 ----------------------------------
 
 To change the font of the scroller look at 
