@@ -20,13 +20,15 @@ Log into your Pi
 I took bits and pieces from all sources and smashed them together to make this work!
 
 From https://www.youtube.com/watch?v=xSwoM3M24W8 at 8:15
+```
 git clone https://github.com/hzeller/rpi-rgb-led-matrix.git
+```
 
 Follow the guide on Github for Authentication Processes!
 
+```
 cd rpi-rgb-led-matrix
 make build-pythong PYTHON=$(Which python 3)
 sudo make install-python
 cd bindings/python/smaples
-
-
+```
