@@ -1,7 +1,15 @@
 # NFL-Scores
-Use rpi-rgb-led-matrix to scroll current week's NFL scores on rpi and led matrix
+Use rpi-rgb-led-matrix to scroll current week's NFL scores on rpi and led matrix using ESPN's hidden API endpoints
 
-This project is inspired and assited by many, to include https://github.com/hzeller/rpi-rgb-led-matrix/blob/master/README.md, https://www.youtube.com/watch?v=xSwoM3M24W8, https://www.youtube.com/watch?v=omMVAtGGr_0&t=906s
+This project is inspired and assited by many, to include
+
+https://github.com/hzeller/rpi-rgb-led-matrix
+
+https://www.youtube.com/watch?v=xSwoM3M24W8
+
+https://www.youtube.com/watch?v=omMVAtGGr_0&t=906s
+
+https://gist.github.com/akeaswaran/b48b02f1c94f873c6655e7129910fc3b
 
 ### Hardware used
 Raspberry Pi 4B
