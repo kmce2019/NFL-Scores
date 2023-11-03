@@ -3,7 +3,7 @@ Use rpi-rgb-led-matrix to scroll current week's NFL scores on rpi and led matrix
 
 This project is inspired and assited by many, to include https://github.com/hzeller/rpi-rgb-led-matrix/blob/master/README.md, https://www.youtube.com/watch?v=xSwoM3M24W8, https://www.youtube.com/watch?v=omMVAtGGr_0&t=906s
 
-Hardware user:
+Hardware used:
 Raspberry Pi 4B
 Adafruit RGB Matrix + RTC HAT (Soldering required!) (After the fact, I discovered Adafruit RGB Matrix Bonnet, no soldering required)
 64x32 LED Matrix (HUB75 )
