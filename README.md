@@ -5,17 +5,29 @@ This project is inspired and assited by many, to include https://github.com/hzel
 
 Hardware used:
 Raspberry Pi 4B
+
 Adafruit RGB Matrix + RTC HAT (Soldering required!) (After the fact, I discovered Adafruit RGB Matrix Bonnet, no soldering required)
+
 64x32 LED Matrix (HUB75 )
+
 USB power supply for RPI
+
 5VDC  power supply for HAT
 
+### Hardware Setup
 Follow your favorite guide for connecting the hardware.
+
 Install Raspberry Pi OS (Legacy) LITE
+
 They have a new image downloader and SD Card creation tool at https://www.raspberrypi.com/software/operating-systems/
+
 After creating the SD Card, and connecting all of the hardware, insert SD Card and power on the devices.
+
 This can take some time so be patient
+
 Log into your Pi
+
+###  Software Setup
 
 I took bits and pieces from all sources and smashed them together to make this work!
 
