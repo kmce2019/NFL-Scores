@@ -95,7 +95,7 @@ pip install (missing dependency)
 sudo python3 nflscores.py --led-cols=64 --led-rows=32 --led-slowdown-gpio=4 --led-no-hardware-pulse=1 --led-gpio-mapping=adafruit-hat
 ```
 
-See [https://github.com/hzeller/rpi-rgb-led-matrix#controlling-rgb-led-display-with-raspberry-pi-gpio] for flag descriptions
+See https://github.com/hzeller/rpi-rgb-led-matrix#controlling-rgb-led-display-with-raspberry-pi-gpio for flag descriptions
 
 
 ### Things to update:
