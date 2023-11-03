@@ -32,7 +32,19 @@ make build-pythong PYTHON=$(Which python 3)
 sudo make install-python
 cd bindings/python/smaples
 ```
-To run the program
+Any dependencies not installed above can be installed using pip
+```
+pip install (missing dependency)
+```
+
+### Usage
 ```
 sudo python3 nflscores.py --led-cols=64 --led-rows=32 --led-slowdown-gpio=4 --led-no-hardware-pulse=1 --led-gpio-mapping=adafruit-hat
 ```
+
+
+
+
+### Things to update:
+Add as a service
+Add to startup
